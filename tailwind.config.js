@@ -8,7 +8,8 @@ export default {
     extend: {
     },
     fontFamily: {
-			poppins: ['Poppins', 'sans-serif']
+			poppins: ['Poppins', 'sans-serif'],
+      roboto: ['Roboto Slab', 'serif']
 		}
   },
   plugins: [],

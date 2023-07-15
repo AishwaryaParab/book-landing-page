@@ -6,7 +6,7 @@ import Testmonials from "./components/Testmonials"
 function App() {
 
   return (
-    <div className="w-screen">
+    <div>
       <MainContainer />
       <AboutContainer />
       <Testmonials />
